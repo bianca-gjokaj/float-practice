@@ -3,11 +3,17 @@
 }
 
 body {
-    margin: 0;
-    max-width: 800;
+    background-color: gray;
     height: 100%;
     align-items: center;
     font-family: 'Nanum Brush Script', cursive;
+}
+
+article {
+    max-width: 800;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
 }
 
 h2 {
